@@ -1,0 +1,14 @@
+{
+  "name": "@myorg/apis-api-1",
+  "version": "1.0.0",
+  "license": "",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
